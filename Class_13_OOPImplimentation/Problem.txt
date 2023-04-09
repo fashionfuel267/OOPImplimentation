@@ -1,0 +1,13 @@
+﻿1.       Create C# console application to take and print the following employee information:
+                i.     ID
+              ii.     Name
+             iii.     Designation
+            iv.     Date of Birth
+              v.     Joining Date
+            vi.     Role Plays
+ 
+The application will follow the following instructions strictly:
+a.	Principle of OOP must be used to develop the application.
+b.	Role Plays must be implemented. Roles are unlimited
+c.	Employee must inherit person. Person cannot be instantiated. Employee cannot be inherited.
+d.	Enum will be used for designations.
